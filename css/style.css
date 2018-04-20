@@ -1,0 +1,95 @@
+.product_box{
+    text-align: center;
+    float: left;
+    border:2px solid blue;
+    border-radius: 5px;
+    margin-right:10px;
+    margin-top:5px;
+    padding: 7px;
+    width:270px;
+    
+}
+.clear_fix{
+    clear: both;
+}
+.product_box  .p_name{
+    font-weight: bold;
+    font-size: 15px;
+}
+
+
+
+.product_box .p_price{
+    float:right;
+    font-weight: bold;
+    font-size: 12px;
+}
+.button{
+    padding-top:15px;
+}
+.product_box .press{
+    margin-left:-110px;
+}
+#up{
+    margin-right:30px;
+    margin-bottom: 10px;
+}
+#line{
+    margin-top:880px;
+}
+
+
+a:link {
+    color:blanchedalmond;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    font-weight: bold;
+    color:wheat;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color:black;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:active {
+    color:maroon;
+    background-color: transparent;
+    text-decoration: underline;
+}
+.log{
+    padding-right:5px;
+}
+.fill{
+    margin-right:150px;
+    margin-top:5px;
+}
+.image{
+    float: left;
+    margin-right:30px;
+}
+.search{
+    margin-right:290px;
+    margin-top: 10px;
+    padding-top:10px;
+  
+    
+}
+.back{
+
+    background-color:seagreen;
+}
+.log{
+    float:right;
+    
+    
+}
+.next{
+    background-color: lightgreen;
+    padding-top:5px;
+}
+
+   
